@@ -55,6 +55,9 @@ public class GrootUtils {
     private static final Logger logger = LoggerFactory.getLogger(GrootUtils.class);
     
     private final RestTemplate restTemplate;
+    public static String password = "tempPassword";
+
+
     
     @Autowired
 	public GrootUtils(RestTemplate restTemplate) {
