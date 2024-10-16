@@ -56,6 +56,7 @@ public class GrootUtils {
     
     private final RestTemplate restTemplate;
     public static String password = "tempPassword";
+    public static String anotherPassword = "anotherPassword";
 
 
     
