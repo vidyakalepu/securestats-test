@@ -21,6 +21,7 @@ public class ServiceConstants {
 	public static final String CONVERSATION_ID = "conversationId";
 	public static final String COMMA = ",";
 	public static final String JAVA_COMMAND = "java";
+	public static final String JAVA_COMMAND_1 = "java_1";
     public static final String JAR_OPTION = "-jar";
     public static final String SESSION_OPTION = "-s";
     public static final String TOKEN_OPTION = "-t";
